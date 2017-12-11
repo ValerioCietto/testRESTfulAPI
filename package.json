@@ -1,0 +1,24 @@
+{
+  "name": "todolistapi",
+  "version": "1.0.0",
+  "description": "RESTful todolistapi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"ciao sono valerio error no test specified\\\" "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ValerioCietto/testRESTfulAPI.git"
+  },
+  "keywords": [
+    "RESTful",
+    "API",
+    "tutorial"
+  ],
+  "author": "Valerio Cietto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ValerioCietto/testRESTfulAPI/issues"
+  },
+  "homepage": "https://github.com/ValerioCietto/testRESTfulAPI#readme"
+}
